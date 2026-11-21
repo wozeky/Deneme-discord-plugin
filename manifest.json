@@ -1,0 +1,9 @@
+{
+  "name": "A2DP Audio Router",
+  "description": "Attempts to prevent Bluetooth SCO/HFP switching during Discord calls.",
+  "authors": [
+    { "name": "Community" }
+  ],
+  "main": "index.js",
+  "hash": "06785c25600a5690ec562d5f60b734f7f15b36e61f8739ba148813e544ce9623"
+}
